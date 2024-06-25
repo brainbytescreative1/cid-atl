@@ -1,0 +1,101 @@
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+body {
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a {
+	color: #990000;
+}
+a:link {
+	text-decoration: none;
+	color: #990066;
+}
+a:visited {
+	text-decoration: none;
+	color: #990066;
+}
+a:hover {
+	text-decoration: underline;
+	color: #990066;
+}
+a:active {
+	text-decoration: none;
+	color: #990066;
+}
+.grayshade {
+	background-color: #333333;
+}
+.redshade {
+	background-color: #666666;
+}
+.headershade {
+	background-image: url(images/shadeslice_header.gif);
+	background-repeat: repeat;
+}
+.sectionshade {
+	background-image: url(images/shadeslice_section.gif);
+	background-repeat: repeat;
+}
+.sectionshadetall {
+	background-image: url(images/shadeslice_sectiontall.gif);
+	background-repeat: repeat;
+}
+.largeitalic {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	color: #333333;
+}
+.red {
+	color: #990066;
+}
+.white {
+	color: #FFFFFF;
+}
+.large {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.medium {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+.redlargeitalic {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	color: #990066;
+}
+.whitelargeitalic {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.textfield {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+.ralign{
+	margin-top: 5px; 
+	float: right; 
+	margin-bottom: 2px; 
+	margin-left: 5px;
+}
+.lalign{
+	margin-top: 5px; 
+	float: left; 
+	margin-bottom: 2px; 
+	margin-left: 5px;
+}
